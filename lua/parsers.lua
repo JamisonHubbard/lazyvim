@@ -1,0 +1,1 @@
+/nix/store/9130020wyn8dr4z6m3d8iygim9imc4fq-home-manager-files/.config/nvim/lua/parsers.lua
